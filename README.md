@@ -37,8 +37,39 @@ The system employs file stream techniques to ensure that user data is securely s
 
 This structure ensures that user data is not lost when the program is closed, providing a reliable and persistent banking experience.
 
+## Getting Started
+1. **Setup Requirements**: Ensure you have a compatible C++ development environment installed, such as Code::Blocks, Visual Studio, or any other IDE of your choice.
+2. **Clone the Repository**: Use the following command to clone the project repository:
+   ```bash
+   git clone <repository-link>
+   cd bank-system
+
+## Requirements
+To successfully run and contribute to this bank system project, the following requirements should be met:
+
+1. **C++ Development Environment**: 
+   - A compatible C++ development environment should be installed on your machine. Recommended IDEs include:
+     - Code::Blocks
+     - Visual Studio
+     - CLion
+     - Any other C++ IDE of your choice
+
+2. **Basic Knowledge**:
+   - Familiarity with **File Dialogs and File Streams**: Understanding how to read from and write to files in C++.
+   - Basic knowledge of **Object-Oriented Programming (OOP)**: Familiarity with concepts such as classes, objects, inheritance, and encapsulation.
+   - Understanding of the **Standard Template Library (STL)**: Basic knowledge of STL components like vectors, lists, and maps to manage collections of data effectively.
+
+3. **C++ Compiler**: 
+   - Ensure that you have a C++ compiler installed (e.g., GCC, MSVC) to compile and run the code.
+
+4. **Operating System**: 
+   - This project is designed to work on Windows, macOS, and Linux systems, as long as a compatible C++ development environment is used.
+
+By meeting these requirements, you will be well-prepared to work on this bank system project and understand its functionality.
+
+
 ## Contact
-For any questions or inquiries, please reach out via email at [your-email@example.com].
+For any questions or inquiries, please reach out via email at [fmoamen83@gmail.com].
 
 You can also connect with me on:
 - **FaceBook**: [Fa Mo](https://www.facebook.com/profile.php?id=100055668613916)
